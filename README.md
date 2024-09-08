@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://github.com/salonii78">
-    <img src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif" width=50% height=40%>
-  </a>
-</p>
+
 <h3 align="center">Student at DAIICT</h3>
 
 
